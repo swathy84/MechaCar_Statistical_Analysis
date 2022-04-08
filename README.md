@@ -6,7 +6,7 @@ The purpose of this project is to analyze metrics that can effect the manufactur
 
 ### Linear Regression to predict MPG
 
-[MechaCarChallenge.R](MechaCarChallenge.r) -  file related to the Linear regression 
+[MechaCarChallenge.R](MechaCarChallenge.R) -  file related to the Linear regression 
 
 
 ![main](resources/linear_regression_summary.png)
