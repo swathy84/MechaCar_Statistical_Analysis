@@ -5,7 +5,7 @@
 The purpose of this project is to analyze metrics that can effect the manufacturing a new car prototype and compare vehicle performances. the metrics include vehicle_length,vehicle_weight,spoiler_angle,ground_clearance,AWD,mpg and PSI.
 
 
-[MechaCarChallenge.R](MechaCarChallenge.r) -  Analysis made for this project 
+[MechaCarChallenge.R](MechaCarChallenge.R) -  Analysis made for this project 
 
 ## Linear Regression to predict MPG
 
@@ -35,11 +35,11 @@ By looking at the overall variance of the entire dataset shows that current manu
 
 ![main](resources/t-test_entirelot.png)
 
-![main](t-test_lot1.png)
+![main](resources/t-test_lot1.png)
 
-![main](t-test_lot2.png)
+![main](resources/t-test_lot2.png)
 
-![main](t-test_lot3.png)
+![main](resources/t-test_lot3.png)
 
 #### summary 
 
